@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = chivalrysilk@gmail.com
+	name = thepparat tantikalayapond
